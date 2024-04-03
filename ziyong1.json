@@ -1,7 +1,8 @@
 {
 "spider": "./jar/fan.txt;md5;dd909349c70fe92e82470eba611b7094",
 "lives": [
-        {"name"= "live",
+        {
+        "name":"live",
         "type":"0",
           "pass": true,
           "url": "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt",
